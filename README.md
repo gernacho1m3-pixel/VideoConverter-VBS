@@ -9,7 +9,7 @@ We apologize if we activated the MIT license. This was done to protect the files
 - Video Conversion
 - Codec H.264 / H.265
 - Resolution Selection
-- FPS Selection
+- Frame Rate Selection
 - Custom Bitrate
 - Audio Settings
 - Auto Cleanup
